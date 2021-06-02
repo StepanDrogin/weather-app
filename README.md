@@ -1,2 +1,2 @@
-# weather-app
-Simple weather app with using React
+Simple weather app with using React & OpenWeatherMap API
+
